@@ -1,6 +1,6 @@
 
 Speedar 2.0 Readme
-Copyright 2001-2004 Rietta Solutions.  All Rights Reserved.
+Copyright 2001-2004 Rietta Inc.  All Rights Reserved.
 
 Outline:
 1. Overview
@@ -88,12 +88,20 @@ The PHP code which drives the results is located in results.php.  You can edit t
 
 For specific licensing information, please see license.txt.  The license is BSD.
 
-Rietta Solutions disclaims all warranties and conditions, either express or implied, including, but not limited to, implied warranties or conditions or conditions of merchantability, fitness for a particular purpose, title and non-infringement, with regard to the software, and the provision of or failure to provide support services.
+Rietta Inc. disclaims all warranties and conditions, either express or implied, including, but not limited to, implied warranties or conditions or conditions of merchantability, fitness for a particular purpose, title and non-infringement, with regard to the software, and the provision of or failure to provide support services.
 
-In no event shall Rietta Solutions be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of the use of or inability to use the software, or the failure to provide support services, even if Rietta Solutions has been advised of the possibility of such damages.
+In no event shall Rietta Inc. be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of the use of or inability to use the software, or the failure to provide support services, even if Rietta Inc. has been advised of the possibility of such damages.
 
 -----------------------------
-6. Contact Information
+6. Authors
+-----------------------------
+
+* Andrew Conner
+* Jonathan Cullifer
+* Frank Rietta
+
+-----------------------------
+7. Contact Information
 -----------------------------
 
 Website: 
@@ -101,7 +109,8 @@ Website:
 
 Mailing Address:
 
-	Rietta Solutions
-	10630 Greenock Way
-	Duluth, GA 30097
+	Rietta Inc.
+	5805 State Bridge Road
+	Suite G 158
+	Johns Creek, GA 30097
 	USA
